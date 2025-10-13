@@ -1,6 +1,6 @@
 // main.c
 #include <stdio.h>
-#include "calculator.h"
+#include "calculator.c"
 
 int main() {
     int choice;
