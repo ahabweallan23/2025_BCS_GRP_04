@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1760303758 source:c:\users\wh computers\desktop\2025_bcs_grp_04_project\2025_bcs_grp_04\calculator\calculator.c
+1761502331 source:c:\users\wh computers\desktop\2025_bcs_grp_04_project\2025_bcs_grp_04\calculator\calculator.c
 	<stdio.h>
 	"calculator.h"
 
 1759126080 c:\users\wh computers\desktop\2025_bcs_grp_04_project\2025_bcs_grp_04\calculator\calculator.h
 
-1760305665 source:c:\users\wh computers\desktop\2025_bcs_grp_04_project\2025_bcs_grp_04\calculator\main.c
+1760899712 source:c:\users\wh computers\desktop\2025_bcs_grp_04_project\2025_bcs_grp_04\calculator\main.c
 	<stdio.h>
 	"calculator.h"
 

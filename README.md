@@ -20,4 +20,4 @@ Owoyesigyire Marvin	   2025/BCS/210/PS			      Member
 Nyangoma Christine	   2025/BCS/152/PS			      Member
 Musasizi Noreen		   2025/BCS/201/PS			      Member
 Asiimwe Gilbert		   2025/BCS/050/PS			      Member
-Nuwahereza Clinton	   2025/BCS/150/PS			      Member
+Musasire T Kenneth         2024/BCS/115/PS                            Member
