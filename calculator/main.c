@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "calculator.c"
+#include "calculator.h"
 
 int main() {
     int choice;
